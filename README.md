@@ -1,2 +1,2 @@
 # sentimental_analysis-NLP
-In this project, I have build a model using nltk to identify whether the news headlines is postive or negative.
+In this project, I have build a model using nltk to identify whether the sentiments of news headlines is postive or negative.
